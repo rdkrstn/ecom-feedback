@@ -1,0 +1,18 @@
+intake_review:
+  agent_id: "<band-agent-uuid>"
+  api_key: "<band-agent-api-key>"
+customer_feedback_review:
+  agent_id: "<band-agent-uuid>"
+  api_key: "<band-agent-api-key>"
+ugc_review:
+  agent_id: "<band-agent-uuid>"
+  api_key: "<band-agent-api-key>"
+support_review:
+  agent_id: "<band-agent-uuid>"
+  api_key: "<band-agent-api-key>"
+product_page_review:
+  agent_id: "<band-agent-uuid>"
+  api_key: "<band-agent-api-key>"
+action_review:
+  agent_id: "<band-agent-uuid>"
+  api_key: "<band-agent-api-key>"

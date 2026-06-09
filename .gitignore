@@ -1,0 +1,14 @@
+node_modules
+.next
+out
+apps/web/out
+.env
+.env.local
+agent_config.yaml
+agents/agent_config.yaml
+agents/.env
+agents/data/*.db
+__pycache__
+.pytest_cache
+.venv
+.DS_Store
