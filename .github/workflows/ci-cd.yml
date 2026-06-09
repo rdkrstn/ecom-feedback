@@ -71,6 +71,7 @@ jobs:
       - name: Build static frontend
         env:
           NEXT_PUBLIC_API_BASE_URL: http://localhost:8000
+          NEXT_PUBLIC_BASE_PATH: /ecom-feedback
         run: pnpm build
 
       - name: Upload frontend artifact
